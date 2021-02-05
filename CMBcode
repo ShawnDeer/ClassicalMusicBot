@@ -1,6 +1,6 @@
 // ==JavaScript==
 const NAME = "CMB bot";
-const NAMESPACE = "https://instagram.com/mikehugesimp/";
+const NAMESPACE = "https://github.com/ShawnDeer";
 const VERSION = "1.0";
 const DESCRIPTION = "Plays MIDI files!";
 const AUTHOR = "MikeAndrew";
