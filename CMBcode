@@ -6,7 +6,6 @@ const DESCRIPTION = "Plays MIDI files!";
 const AUTHOR = "MikeAndrew";
 const INCLUDE = /^https?:\/\/www\.multiplayerpiano\.com*/g;
 const DOWNLOAD_URL = "https://github.com/ShawnDeer/ClassicalMusicBot/blob/main/CMBcode";
-const MIDIPlayerJS_URL = "https://raw.githubusercontent.com/grimmdude/MidiPlayerJS/master/browser/midiplayer.js";
 // ==/JavaScript==
 
 /* Copyright (C) 2021  Mike Andrew
