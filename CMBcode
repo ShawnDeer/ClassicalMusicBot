@@ -1,5 +1,5 @@
 // ==JavaScript==
-const NAME = "CMB";
+const NAME = "ClassicalMusicBot";
 const NAMESPACE = "https://github.com/ShawnDeer";
 const VERSION = "1.0";
 const DESCRIPTION = "Plays MIDI files!";
